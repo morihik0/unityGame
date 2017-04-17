@@ -45,3 +45,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+Library
+Temp
+Assets/Audio
+Assets/Font
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+*pdb

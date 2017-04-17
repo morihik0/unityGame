@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: 593129a642e6b714288828fcfce4a604
+timeCreated: 1462463381
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: odengu3_0
+    21300002: odengu3_1
+    21300004: odengu3_2
+    21300006: odengu3_3
+    21300008: odengu3_4
+    21300010: odengu3_5
+    21300012: odengu3_6
+    21300014: odengu3_7
+    21300016: odengu3_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: odengu3_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 485
+        width: 175
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: 98.5}
+        - {x: -87.5, y: 49.5}
+        - {x: -87.5, y: -93.5}
+        - {x: -80.5, y: -98.5}
+        - {x: 58.5, y: -98.5}
+        - {x: 87.5, y: -56.5}
+        - {x: 87.5, y: 53.5}
+        - {x: 70.5, y: 98.5}
+      - - {x: -68.5, y: -30.5}
+        - {x: -75.5, y: 11.5}
+        - {x: 37.5, y: 82.5}
+        - {x: -4.5, y: -46.5}
+      - - {x: -28.5, y: 76.5}
+        - {x: -61.5, y: 44.5}
+        - {x: -61.5, y: -21.5}
+        - {x: -47.5, y: -35.5}
+        - {x: 16.5, y: -35.5}
+        - {x: 39.5, y: -25.5}
+        - {x: 39.5, y: 76.5}
+    - name: odengu3_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 505
+        width: 269
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84.5, y: 13.5}
+        - {x: 57.5, y: 35.5}
+        - {x: 4.5, y: 83.5}
+        - {x: -5.5, y: 83.5}
+        - {x: -20.5, y: 68.5}
+        - {x: -132.5, y: -30.5}
+        - {x: -134.5, y: -32.5}
+        - {x: -134.5, y: -83.5}
+        - {x: 134.5, y: -83.5}
+        - {x: 134.5, y: -33.5}
+        - {x: 126.5, y: -25.5}
+    - name: odengu3_2
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 487
+        width: 255
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: 105}
+        - {x: -82.5, y: 105}
+        - {x: -127.5, y: 37}
+        - {x: -127.5, y: 0}
+        - {x: -124.5, y: -9}
+        - {x: 48.5, y: -105}
+        - {x: 93.5, y: -105}
+        - {x: 127.5, y: -35}
+        - {x: 127.5, y: 5}
+        - {x: 23.5, y: 33}
+    - name: odengu3_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 236
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 118, y: 55}
+        - {x: 110, y: 69}
+        - {x: 88, y: 91}
+        - {x: 43, y: 107}
+        - {x: -52, y: 107}
+        - {x: -97, y: 83}
+        - {x: -110, y: 68}
+        - {x: -118, y: 55}
+        - {x: -118, y: -56}
+        - {x: -110, y: -72}
+        - {x: -66, y: -102}
+        - {x: -39, y: -107}
+        - {x: 47, y: -107}
+        - {x: 89, y: -90}
+        - {x: 116, y: -61}
+        - {x: 118, y: -56}
+    - name: odengu3_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 288
+        width: 278
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 139, y: 39.5}
+        - {x: 83, y: 86.5}
+        - {x: 63, y: 88.5}
+        - {x: -36, y: 88.5}
+        - {x: -89, y: 77.5}
+        - {x: -105, y: 69.5}
+        - {x: -138, y: 35.5}
+        - {x: -139, y: 27.5}
+        - {x: -139, y: -21.5}
+        - {x: -132, y: -39.5}
+        - {x: -115, y: -62.5}
+        - {x: -57, y: -88.5}
+        - {x: 46, y: -88.5}
+        - {x: 87, y: -80.5}
+        - {x: 130, y: -54.5}
+        - {x: 139, y: -20.5}
+    - name: odengu3_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 293
+        width: 300
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 135, y: -12.5}
+        - {x: 31, y: 83.5}
+        - {x: -24, y: 83.5}
+        - {x: -29, y: 77.5}
+        - {x: -149, y: -24.5}
+        - {x: -150, y: -31.5}
+        - {x: -150, y: -62.5}
+        - {x: -145, y: -69.5}
+        - {x: -134, y: -79.5}
+        - {x: -125, y: -83.5}
+        - {x: 134, y: -83.5}
+        - {x: 150, y: -69.5}
+        - {x: 150, y: -29.5}
+    - name: odengu3_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 50
+        width: 351
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 173.5, y: 27.5}
+        - {x: 112.5, y: 47.5}
+        - {x: -4.5, y: 63.5}
+        - {x: -35.5, y: 81.5}
+        - {x: -133.5, y: 81.5}
+        - {x: -175.5, y: 53.5}
+        - {x: -175.5, y: 3.5}
+        - {x: -145.5, y: -26.5}
+        - {x: -42.5, y: -52.5}
+        - {x: -6.5, y: -57.5}
+        - {x: 86.5, y: -81.5}
+        - {x: 143.5, y: -81.5}
+        - {x: 151.5, y: -79.5}
+        - {x: 168.5, y: -57.5}
+        - {x: 175.5, y: -48.5}
+        - {x: 175.5, y: 15.5}
+    - name: odengu3_7
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 10
+        width: 240
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 84.5}
+        - {x: -99, y: 84.5}
+        - {x: -120, y: 70.5}
+        - {x: -120, y: 45.5}
+        - {x: 16, y: -79.5}
+        - {x: 32, y: -84.5}
+        - {x: 120, y: -84.5}
+        - {x: 120, y: 0.5}
+        - {x: 83, y: 65.5}
+    - name: odengu3_8
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 0
+        width: 239
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81.5, y: 40.5}
+        - {x: 58.5, y: 65.5}
+        - {x: 87.5, y: 116.5}
+        - {x: 82.5, y: 128.5}
+        - {x: 76.5, y: 133.5}
+        - {x: -79.5, y: 133.5}
+        - {x: -88.5, y: 124.5}
+        - {x: -70.5, y: 83.5}
+        - {x: -78.5, y: 38.5}
+        - {x: -119.5, y: -48.5}
+        - {x: -119.5, y: -109.5}
+        - {x: -105.5, y: -133.5}
+        - {x: 95.5, y: -133.5}
+        - {x: 109.5, y: -123.5}
+        - {x: 119.5, y: -104.5}
+        - {x: 119.5, y: -50.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
